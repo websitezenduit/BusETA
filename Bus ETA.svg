@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs><style>.cls-1{fill:none;}.cls-1,.cls-2{stroke:#10b9ff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}.cls-2{fill:#10b9ff;}</style></defs><title>Bus ETA</title><g id="BusETA"><path class="cls-1" d="M7,21V9.49A2.43,2.43,0,0,1,9.47,7h9.06A2.43,2.43,0,0,1,21,9.49V21Z"/><line class="cls-1" x1="7" y1="16" x2="21" y2="16"/><rect class="cls-2" x="8.6" y="21.3" width="1.8" height="1.7"/><rect class="cls-2" x="17.6" y="21.3" width="1.8" height="1.7"/><line class="cls-1" x1="5" y1="12.4" x2="5" y2="10.6"/><line class="cls-1" x1="23" y1="10.6" x2="23" y2="12.4"/><line class="cls-1" x1="9.91" y1="9.45" x2="18.09" y2="9.45"/><path class="cls-1" d="M5,7A2,2,0,0,1,7,5"/><path class="cls-1" d="M2,7S2,2,7,2"/><circle class="cls-1" cx="10.5" cy="18.5" r="0.5"/><circle class="cls-1" cx="17.5" cy="18.5" r="0.5"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+      .cls-1,
+      .cls-2 {
+        stroke: #10b9ff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+      .cls-2 {
+        fill: #10b9ff;
+      }
+    </style>
+  </defs>
+  <title>Bus ETA</title>
+  <g id="BusETA">
+  <path class="cls-1" d="M7,21V9.49A2.43,2.43,0,0,1,9.47,7h9.06A2.43,2.43,0,0,1,21,9.49V21Z"/>
+  <line class="cls-1" x1="7" y1="16" x2="21" y2="16"/><rect class="cls-2" x="8.6" y="21.3" width="1.8" height="1.7"/>
+  <rect class="cls-2" x="17.6" y="21.3" width="1.8" height="1.7"/><line class="cls-1" x1="5" y1="12.4" x2="5" y2="10.6"/>
+  <line class="cls-1" x1="23" y1="10.6" x2="23" y2="12.4"/><line class="cls-1" x1="9.91" y1="9.45" x2="18.09" y2="9.45"/>
+  <path class="cls-1" d="M5,7A2,2,0,0,1,7,5"/>
+  <path class="cls-1" d="M2,7S2,2,7,2"/>
+  <circle class="cls-1" cx="10.5" cy="18.5" r="0.5"/>
+  <circle class="cls-1" cx="17.5" cy="18.5" r="0.5"/></g>
+</svg>
